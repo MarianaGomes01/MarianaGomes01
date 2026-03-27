@@ -98,4 +98,10 @@ Aqui compartilho meus projetos, aprendizados e experiências ao longo da minha j
 
 ### 📊 Estatísticas
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MarianaGomes01&theme=omni&hide_border=falso&short_numbers=falso" alt="GitHub Streak" /></a>
+<div align="left">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=MarianaGomes01&theme=omni&hide_border=false&short_numbers=false" height="195px" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://i.pinimg.com/originals/96/68/f5/9668f5e0d57ae0784729deb41fe82a19.gif" height="195px" />
+</div>
